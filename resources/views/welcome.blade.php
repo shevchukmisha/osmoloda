@@ -137,13 +137,16 @@
     </div>
     <!-- END SLIDER -->
     
-    <main>
+    
+    <section id="main">
         <div class="container">
-            <section id="content" class="content">
-                 
-            </section>
+            <div class="section-main-head">
+            <h2 class="section-title text-center fadeInDown">Я. М. Шляхта. Топіарне мистецтво та живоплоти</h2>
+            <p class="text-center fadeInDown">Львів: Видавництво Львівської політехніки, 2015</p>
+            <h3 class="text-center  fadeInDown">Ціна 60 грн.</h3>
         </div>
-    </main>
+        </div>
+    </section>
 
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
